@@ -3433,7 +3433,7 @@ insertMany
        
        - ``documents`` - the documents to insert
           
-          
+       - ``ordered`` - Optional. A boolean specifying whether the ``mongod`` instance should perform an ordered or unordered insert. Defaults to ``true``.
           
        
        
